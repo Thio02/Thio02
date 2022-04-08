@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://cdn.dribbble.com/users/441326/screenshots/3165191/spotify-gif---oliver-keane.gif)](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU?si=H5ZCNDNcSZijW26ZWoOnVg)
 
 ---
 
