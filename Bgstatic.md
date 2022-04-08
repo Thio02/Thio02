@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/_IM5DHWxnAMAAAAd/haikyuu-hinata.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a student 
 
 - 📚 I'm a beginner, don't mind me
 
