@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://media0.giphy.com/media/Qqw0priv8WTrqY5QFg/giphy.gif)
+<img align="right" alt="GIF" height="400px" src="https://media0.giphy.com/media/Qqw0priv8WTrqY5QFg/giphy.gif"
 
 ---
 
