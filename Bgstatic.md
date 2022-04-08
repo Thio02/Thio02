@@ -1,4 +1,4 @@
-# Hi there, I'm Thio -<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Thio -<img width="30px" src="https://c.tenor.com/_IM5DHWxnAMAAAAd/haikyuu-hinata.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
