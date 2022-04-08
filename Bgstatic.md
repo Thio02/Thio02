@@ -24,7 +24,7 @@
 ### Contact with me 📝
 
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/17/37/1a/17371ac53d1f82719e18cd14da9991b7.gif" />] Thio#8707
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/17/37/1a/17371ac53d1f82719e18cd14da9991b7.gif" /> Thio#8707
 
 
 <br />
