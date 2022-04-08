@@ -4,8 +4,6 @@
 
 ## - 📚 I'm a beginner, don't mind me
 
----
-
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
