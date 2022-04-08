@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)
+![Spotify](https://monophy.com/media/kbi6DFrMY6zuXucBKR/monophy.gif)
 
 ---
 
