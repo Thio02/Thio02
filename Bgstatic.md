@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="70px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
@@ -59,14 +59,3 @@
 <br/>
 
 ---
-
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
- 
----
-
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-
-
