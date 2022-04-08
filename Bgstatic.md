@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://monophy.com/media/kbi6DFrMY6zuXucBKR/monophy.gif)
+![Spotify](https://media0.giphy.com/media/Qqw0priv8WTrqY5QFg/giphy.gif)
 
 ---
 
